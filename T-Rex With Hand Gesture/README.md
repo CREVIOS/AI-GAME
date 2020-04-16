@@ -6,7 +6,7 @@ Trex with hand gesture is a program that helps you play the Google Dinosaur Game
 
 How to play: 
 
-0. Download ClenchRex.py from GitHub Repository 
+0. Download TRex.py from GitHub Repository 
 1. Open Google Dinosaur Game on Chrome 
 2. Run the Python Program 
 3. Put your clenched fist in the Green Box, and start the game.
