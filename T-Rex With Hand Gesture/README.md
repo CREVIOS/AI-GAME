@@ -1,9 +1,8 @@
-# ClenchRexHackEd2020
-
-Demo Video: https://youtu.be/yUPsvvMsgsA
+<video src="vhttps://github.com/CREVIOS/AI-GAME/blob/master/T-Rex%20With%20Hand%20Gesture/Trex.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
 
 
-ClenchRex is a program that helps you play the Google Dinosaur Game by using hand gestures. Use ClenchRex to exercise your hands in a fun way! This Gesture-Control Assistant for the Google Dinosaur Game comes with a lot of benefits, and most importantly - it's hella fun! 
+
+Trex with hand gesture is a program that helps you play the Google Dinosaur Game by using hand gestures.Making it fun in the time of quarantine .This Gesture-Control Assistant for the Google Dinosaur Game comes with a lot of benefits, and most importantly - it's fullt for fun and learn! Python program built using OpenCV and PyAutoGUI libraries to play games like Google Dinosaur and Flappy Birds using hand-gestures. Developed to enhance hand-related physiological rehabilitation exercises.
 
 How to play: 
 
