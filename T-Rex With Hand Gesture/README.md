@@ -1,4 +1,4 @@
-<video src="vhttps://github.com/CREVIOS/AI-GAME/blob/master/T-Rex%20With%20Hand%20Gesture/Trex.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
+<video src="https://youtu.be/9_CuE2abhAs" poster="poster.jpg" width="320" height="200" controls preload></video>
 
 
 
